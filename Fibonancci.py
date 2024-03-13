@@ -1,3 +1,5 @@
+# Write a program to generate the Fibonacci sequence up to 100.
+
 def fibonacci(limit):
     
     fib_sequence = [0, 1]
