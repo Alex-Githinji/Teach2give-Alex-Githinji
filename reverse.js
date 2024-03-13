@@ -1,3 +1,7 @@
+// Write a program that takes an integer as input and returns an integer with reversed digit
+ordering.
+
+
 function reverseInteger(num) {
     
     let numStr = num.toString();
